@@ -1,0 +1,29 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Lesson
+{
+    internal class Player
+    {
+        static void Main(string[] args)
+        {
+            string namePlayer = "Steve";
+            char iconPlayer = '@';
+
+            int coordinateX, coordinateY;
+            coordinateX = 150;
+            coordinateY = 50;
+
+            int armor = 100;
+            float health = 100.0f;
+            float speedPlayer = 20;
+
+            int inventoryCapacity = 10;
+            double ammunition = 100000;
+            bool playerIsDead = false;
+        }
+    }
+}
