@@ -13,9 +13,9 @@ namespace Lesson
             string namePlayer = "Steve";
             char iconPlayer = '@';
 
-            int coordinateX, coordinateY;
-            coordinateX = 150;
-            coordinateY = 50;
+            int positionX, positionY;
+            positionX = 150;
+            positionY = 50;
 
             int armor = 100;
             float health = 100.0f;
