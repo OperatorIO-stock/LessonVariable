@@ -13,7 +13,8 @@ namespace Lesson
             string namePlayer = "Steve";
             char iconPlayer = '@';
 
-            int positionX, positionY;
+            int positionX;
+            int positionY;
             positionX = 150;
             positionY = 50;
 
