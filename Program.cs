@@ -24,7 +24,7 @@ namespace Lesson
 
             int inventoryCapacity = 10;
             double ammunition = 100000;
-            bool isDeadPlayer = false;
+            bool isPlayerDead = false;
         }
     }
 }
